@@ -1,2 +1,2 @@
 # html
-Literalmete no nome.
+Literalmente no nome.
