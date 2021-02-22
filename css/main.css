@@ -1,4 +1,8 @@
-.header-1 {
+.body {
+  width: 100%;
+  height: 100%;
+}
+header-11 {
   background-color: #473C8B;
   height: 60px;
 }
