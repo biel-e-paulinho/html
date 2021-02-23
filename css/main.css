@@ -1,3 +1,7 @@
+.body {
+  background-image: url('img/fundo.jpg');
+}
+
 .header1 {
   background-color: #27408B;
   height: 60px;
